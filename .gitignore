@@ -1,0 +1,15 @@
+# Environment variables - contains secrets!
+.env
+
+# Configuration file - contains private channel IDs
+config.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Telethon session file
+*.session
+
+# Telethon session file - MAJOR security risk!
+*.session
